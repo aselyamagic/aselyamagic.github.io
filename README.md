@@ -4,5 +4,8 @@ Hello, Theo!
 
 - abc
 - def
-- ghi
-- 
+
+## Links:
+
+[2026](https://theo-armour.github.io/2026/simplicity/github-markdown-guide.html)
+
